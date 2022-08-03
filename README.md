@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/8456633/59972109-8e9c8480-95cc-11e9-8350-38f7f86ba76d.png">
-</p>
+
+ ![Gif](/docs/resources/demo3.gif)
+
 
 A simple terminal UI for both docker and docker-compose, written in Go with the [gocui](https://github.com/jroimartin/gocui 'gocui') library.
+
+
+
+
+
 
 ![CI](https://github.com/jesseduffield/lazygit/workflows/Continuous%20Integration/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jesseduffield/lazydocker)](https://goreportcard.com/report/github.com/jesseduffield/lazydocker)
@@ -13,27 +18,10 @@ A simple terminal UI for both docker and docker-compose, written in Go with the 
 [![GitHub tag](https://img.shields.io/github/tag/jesseduffield/lazydocker.svg)](https://github.com/jesseduffield/lazydocker/releases/latest)
 [![homebrew](https://img.shields.io/homebrew/v/lazydocker)](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lazydocker.rb)
 
-![Gif](/docs/resources/demo3.gif)
+
 
 [Demo](https://youtu.be/NICqQPxwJWw)
 
-## Sponsors
-
-<p align="center">
- Maintainence of this project is made possible by all the <a href="https://github.com/jesseduffield/lazydocker/graphs/contributors">contributors</a> and <a href="https://github.com/sponsors/jesseduffield">sponsors</a>. If you'd like to sponsor this project and have your avatar or company logo appear below <a href="https://github.com/sponsors/jesseduffield">click here</a>. 💙
-</p>
-
-<p align="center">
-<!-- sponsors --><a href="https://github.com/atecce"><img src="https://github.com/atecce.png" width="60px" alt="" /></a><a href="https://github.com/intabulas"><img src="https://github.com/intabulas.png" width="60px" alt="" /></a><a href="https://github.com/peppy"><img src="https://github.com/peppy.png" width="60px" alt="" /></a><a href="https://github.com/piot"><img src="https://github.com/piot.png" width="60px" alt="" /></a><a href="https://github.com/kristijanhusak"><img src="https://github.com/kristijanhusak.png" width="60px" alt="" /></a><a href="https://github.com/blacky14"><img src="https://github.com/blacky14.png" width="60px" alt="" /></a><a href="https://github.com/rgwood"><img src="https://github.com/rgwood.png" width="60px" alt="" /></a><a href="https://github.com/oliverguenther"><img src="https://github.com/oliverguenther.png" width="60px" alt="" /></a><a href="https://github.com/pawanjay176"><img src="https://github.com/pawanjay176.png" width="60px" alt="" /></a><a href="https://github.com/bdach"><img src="https://github.com/bdach.png" width="60px" alt="" /></a><a href="https://github.com/naoey"><img src="https://github.com/naoey.png" width="60px" alt="" /></a><a href="https://github.com/jryom"><img src="https://github.com/jryom.png" width="60px" alt="" /></a><a href="https://github.com/sagor999"><img src="https://github.com/sagor999.png" width="60px" alt="" /></a><a href="https://github.com/fargozhu"><img src="https://github.com/fargozhu.png" width="60px" alt="" /></a><a href="https://github.com/carstengehling"><img src="https://github.com/carstengehling.png" width="60px" alt="" /></a><a href="https://github.com/ceuk"><img src="https://github.com/ceuk.png" width="60px" alt="" /></a><a href="https://github.com/akospwc"><img src="https://github.com/akospwc.png" width="60px" alt="" /></a><a href="https://github.com/peterdieleman"><img src="https://github.com/peterdieleman.png" width="60px" alt="" /></a><a href="https://github.com/Xetera"><img src="https://github.com/Xetera.png" width="60px" alt="" /></a><a href="https://github.com/HoldenLucas"><img src="https://github.com/HoldenLucas.png" width="60px" alt="" /></a><a href="https://github.com/barbados-clemens"><img src="https://github.com/barbados-clemens.png" width="60px" alt="" /></a><a href="https://github.com/nartc"><img src="https://github.com/nartc.png" width="60px" alt="" /></a><a href="https://github.com/"><img src="https://github.com/.png" width="60px" alt="" /></a><a href="https://github.com/matejcik"><img src="https://github.com/matejcik.png" width="60px" alt="" /></a><a href="https://github.com/lucatume"><img src="https://github.com/lucatume.png" width="60px" alt="" /></a><a href="https://github.com/dbabiak"><img src="https://github.com/dbabiak.png" width="60px" alt="" /></a><a href="https://github.com/davidlattimore"><img src="https://github.com/davidlattimore.png" width="60px" alt="" /></a><a href="https://github.com/zach-fuller"><img src="https://github.com/zach-fuller.png" width="60px" alt="" /></a><a href="https://github.com/escrafford"><img src="https://github.com/escrafford.png" width="60px" alt="" /></a><a href="https://github.com/davdroman"><img src="https://github.com/davdroman.png" width="60px" alt="" /></a><a href="https://github.com/KowalskiPiotr98"><img src="https://github.com/KowalskiPiotr98.png" width="60px" alt="" /></a><a href="https://github.com/IvanZuy"><img src="https://github.com/IvanZuy.png" width="60px" alt="" /></a><a href="https://github.com/nicholascloud"><img src="https://github.com/nicholascloud.png" width="60px" alt="" /></a><a href="https://github.com/topher200"><img src="https://github.com/topher200.png" width="60px" alt="" /></a><a href="https://github.com/"><img src="https://github.com/.png" width="60px" alt="" /></a><a href="https://github.com/PhotonQuantum"><img src="https://github.com/PhotonQuantum.png" width="60px" alt="" /></a><a href="https://github.com/GitSquared"><img src="https://github.com/GitSquared.png" width="60px" alt="" /></a><a href="https://github.com/ava1ar"><img src="https://github.com/ava1ar.png" width="60px" alt="" /></a><a href="https://github.com/alqh"><img src="https://github.com/alqh.png" width="60px" alt="" /></a><a href="https://github.com/pedropombeiro"><img src="https://github.com/pedropombeiro.png" width="60px" alt="" /></a><a href="https://github.com/minidfx"><img src="https://github.com/minidfx.png" width="60px" alt="" /></a><a href="https://github.com/JoeKlemmer"><img src="https://github.com/JoeKlemmer.png" width="60px" alt="" /></a><a href="https://github.com/MikaelElkiaer"><img src="https://github.com/MikaelElkiaer.png" width="60px" alt="" /></a><a href="https://github.com/smoogipoo"><img src="https://github.com/smoogipoo.png" width="60px" alt="" /></a><a href="https://github.com/Mo8it"><img src="https://github.com/Mo8it.png" width="60px" alt="" /></a><a href="https://github.com/marcusyqy"><img src="https://github.com/marcusyqy.png" width="60px" alt="" /></a><a href="https://github.com/jfavery"><img src="https://github.com/jfavery.png" width="60px" alt="" /></a><a href="https://github.com/V1RE"><img src="https://github.com/V1RE.png" width="60px" alt="" /></a><a href="https://github.com/ShivamJoker"><img src="https://github.com/ShivamJoker.png" width="60px" alt="" /></a><a href="https://github.com/sikos"><img src="https://github.com/sikos.png" width="60px" alt="" /></a><a href="https://github.com/SimonBaars"><img src="https://github.com/SimonBaars.png" width="60px" alt="" /></a><a href="https://github.com/JensPfeifle"><img src="https://github.com/JensPfeifle.png" width="60px" alt="" /></a><a href="https://github.com/Yuuki77"><img src="https://github.com/Yuuki77.png" width="60px" alt="" /></a><a href="https://github.com/superDuperCyberTechno"><img src="https://github.com/superDuperCyberTechno.png" width="60px" alt="" /></a><a href="https://github.com/ColonelBucket8"><img src="https://github.com/ColonelBucket8.png" width="60px" alt="" /></a><a href="https://github.com/mmachatschek"><img src="https://github.com/mmachatschek.png" width="60px" alt="" /></a><a href="https://github.com/mutewinter"><img src="https://github.com/mutewinter.png" width="60px" alt="" /></a><a href="https://github.com/schneipp"><img src="https://github.com/schneipp.png" width="60px" alt="" /></a><!-- sponsors -->
-</p>
-
-## Elevator Pitch
-
-Minor rant incoming: Something's not working? Maybe a service is down. `docker-compose ps`. Yep, it's that microservice that's still buggy. No issue, I'll just restart it: `docker-compose restart`. Okay now let's try again. Oh wait the issue is still there. Hmm. `docker-compose ps`. Right so the service must have just stopped immediately after starting. I probably would have known that if I was reading the log stream, but there is a lot of clutter in there from other services. I could get the logs for just that one service with `docker compose logs --follow myservice` but that dies everytime the service dies so I'd need to run that command every time I restart the service. I could alternatively run `docker-compose up myservice` and in that terminal window if the service is down I could just `up` it again, but now I've got one service hogging a terminal window even after I no longer care about its logs. I guess when I want to reclaim the terminal realestate I can do `ctrl+P,Q`, but... wait, that's not working for some reason. Should I use ctrl+C instead? I can't remember if that closes the foreground process or kills the actual service.
-
-What a headache!
-
-Memorising docker commands is hard. Memorising aliases is slightly less hard. Keeping track of your containers across multiple terminal windows is near impossible. What if you had all the information you needed in one terminal window with every common command living one keypress away (and the ability to add custom commands as well). Lazydocker's goal is to make that dream a reality.
 
 - [Requirements](https://github.com/jesseduffield/lazydocker#requirements)
 - [Installation](https://github.com/jesseduffield/lazydocker#installation)
@@ -51,7 +39,24 @@ Memorising docker commands is hard. Memorising aliases is slightly less hard. Ke
 - Docker >= **1.13** (API >= **1.25**)
 - Docker-Compose >= **1.23.2** (optional)
 
-## Installation
+
+##INSTALACION:
+Hay que cambiar el paquete dependiendo de estructura `armv6`,`armv7` o `Linux_x86_64`.
+```sh
+
+
+LAZYDOCKER_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazydocker/releases/latest" | grep -Po '"tag_name": "v\K[0-9.]+')
+
+curl -Lo lazydocker.tar.gz "https://github.com/jesseduffield/lazydocker/releases/latest/download/lazydocker_${LAZYDOCKER_VERSION}_Linux_armv7.tar.gz"
+
+mkdir lazydocker-temp
+tar xf lazydocker.tar.gz -C lazydocker-temp
+sudo mv lazydocker-temp/lazydocker /usr/local/bin
+lazydocker --version
+rm -rf lazydocker.tar.gz
+rm -rf lazydocker-temp
+```
+
 
 ### Homebrew
 
