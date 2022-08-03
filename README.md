@@ -40,7 +40,7 @@ A simple terminal UI for both docker and docker-compose, written in Go with the 
 - Docker-Compose >= **1.23.2** (optional)
 
 
-##INSTALACION:
+## INSTALACION:
 Hay que cambiar el paquete dependiendo de estructura `armv6`,`armv7` o `Linux_x86_64`.
 ```sh
 
